@@ -71,7 +71,23 @@ graph TD
 
 ### Property Exploration
 > A highly optimized frontend consuming REST APIs for real-time property discovery.
-![Property Search](./assets/property-search.png)
+![Property Search](./assets/propsearch-page.png)
+
+### Property Details Page
+> A highly optimized frontend consuming REST APIs for real-time property discovery.
+![Property Search](./assets/DemoPropDetails.png)
+
+### Listing Page
+> A highly optimized frontend consuming REST APIs for real-time property discovery.
+![Property Search](./assets/sell-page.png)
+
+### Listing Details Form
+> A highly optimized frontend consuming REST APIs for real-time property discovery.
+![Property Search](./assets/ListForm-page.png)
+
+### Agent Dashboard
+> A highly optimized frontend consuming REST APIs for real-time property discovery.
+![Property Search](./assets/agentDashInquiry-page.png)
 
 ### Admin Dashboard 
 > Secure RBAC dashboard for managing global settings, rate limits, and users.
