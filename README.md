@@ -103,5 +103,5 @@ graph TD
 
 ---
 *If you are a recruiter or engineer interested in discussing the technical implementation details, please feel free to reach out via my*
-**[LinkeIn](#)** *((https://www.linkedin.com/in/atharva-deshmukh-93737a252/))*
-**[Gmail](#)** *(datharva706@gmail.com)*
+**[LinkedIn](#)** *([https://www.linkedin.com/in/atharva-deshmukh-93737a252/])*
+**[Gmail](#)** *([datharva706@gmail.com])*
