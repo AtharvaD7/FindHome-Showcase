@@ -3,11 +3,11 @@
 [![Status: Production](https://img.shields.io/badge/Status-Production-success.svg)]()
 [![Frontend: React](https://img.shields.io/badge/Frontend-React-blue.svg)]()
 [![Backend: Spring Boot](https://img.shields.io/badge/Backend-Spring_Boot-green.svg)]()
-[![AI: Google Gemini](https://img.shields.io/badge/AI-Google_Gemini-orange.svg)]()
+[![DB: PostgreSQL](https://img.shields.io/badge/AI-PostgreSQL-orange.svg)]()
 
 > **Note:** This repository serves as an architectural showcase and documentation hub for **FindHomeJ**. The core application source code is maintained in a private repository to protect proprietary API orchestrations, custom AI prompts, and security implementations.
 
-**[🚀 View Live Project Here](#)** *(Add your live link here)*
+**[🚀 View Live Project Here](#)** *(https://find-home-realty.vercel.app/)*
 
 ---
 
@@ -55,18 +55,23 @@ graph TD
 *   **Database:** PostgreSQL with Hibernate/JPA
 *   **Security:** Spring Security + JWT
 *   **External APIs:** Google Gemini (AI Insights), Cloudinary (Media)
+*   **Cloud:** Render(Backend), Vercel(frontend), NeonDB(Serveless PostgesSQL DB)
 
 ## 📸 Application Showcase
 
 *(Replace the placeholder image links below with actual screenshots of your app placed in your `assets/` folder)*
 
-### AI Property Insights
+### AI Property Neighborhood Insights
 > Demonstrating the Gemini API orchestration to provide users with intelligent market context.
 ![AI Insights Demo](./assets/ai-insights.gif)
 
+### AI Makrtet Insights
+> Demonstrating the Gemini API orchestration to provide users with intelligent market context.
+![Market Insights Demo](./assets/ai-insights.gif)
+
 ### Administrator Dashboard
 > Secure RBAC dashboard for managing global settings, rate limits, and users.
-![Admin Dashboard](./assets/admin-dashboard.png)
+![Admin Dashboard](./assets/adminDashboard.png)
 
 ### Property Exploration
 > A highly optimized frontend consuming REST APIs for real-time property discovery.
