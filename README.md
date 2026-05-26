@@ -61,39 +61,39 @@ graph TD
 
 *(Replace the placeholder image links below with actual screenshots of your app placed in your `assets/` folder)*
 
-### AI Property Neighborhood Insights
+###📍 AI Property Neighborhood Insights
 > Demonstrating the Gemini API orchestration to provide users with intelligent market context.
 ![AI Insights Demo](./assets/ai-insights.gif)
 
-### AI Makrtet Insights
+###📈 AI Makrtet Insights
 > Demonstrating the Gemini API orchestration to provide users with intelligent market context.
 ![Market Insights Demo](./assets/MarketInsightsScreenShot.png)
 
-### Property Exploration
+###🔍 Property Exploration
 > A highly optimized frontend consuming REST APIs for real-time property discovery.
 ![Property Search](./assets/propsearch-page.png)
 
-### Property Details Page
+###📋 Property Details Page
 > A highly optimized frontend consuming REST APIs for real-time property discovery.
 ![Property Search](./assets/DemoPropDetails.png)
 
-### Listing Page
+###📑 Listing Page
 > A highly optimized frontend consuming REST APIs for real-time property discovery.
 ![Property Search](./assets/sell-page.png)
 
-### Listing Details Form
+###📝 Listing Details Form
 > A highly optimized frontend consuming REST APIs for real-time property discovery.
 ![Property Search](./assets/ListForm-page.png)
 
-### Agent Dashboard
+###👨‍💼 Agent Dashboard
 > A highly optimized frontend consuming REST APIs for real-time property discovery.
 ![Agent Dashboard](./assets/agentDashInquiry.png)
 
-### Admin Dashboard 
+###⚙️ Admin Dashboard 
 > Secure RBAC dashboard for managing global settings, rate limits, and users.
 ![Admin Dashboard](./assets/adminDashboardKpis.png)
 
-### Admin Dashboard Property Listing Requests
+###📨 Admin Dashboard Property Listing Requests
 > Secure RBAC dashboard for managing global settings, rate limits, and users.
 ![Admin Dashboard](./assets/AdminPropRequests.png)
 
