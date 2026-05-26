@@ -63,7 +63,7 @@ graph TD
 
 ###📍 AI Property Neighborhood Insights
 > Demonstrating the Gemini API orchestration to provide users with intelligent market context.
-![AI Insights Demo](./assets/ai-insights.gif)
+![AI Insights Demo](./assets/AiNeighborhood-page.png)
 
 ###📈 AI Makrtet Insights
 > Demonstrating the Gemini API orchestration to provide users with intelligent market context.
