@@ -67,15 +67,19 @@ graph TD
 
 ### AI Makrtet Insights
 > Demonstrating the Gemini API orchestration to provide users with intelligent market context.
-![Market Insights Demo](./assets/ai-insights.gif)
-
-### Administrator Dashboard
-> Secure RBAC dashboard for managing global settings, rate limits, and users.
-![Admin Dashboard](./assets/adminDashboard.png)
+![Market Insights Demo](./assets/MarketInsightsScreenShot.png)
 
 ### Property Exploration
 > A highly optimized frontend consuming REST APIs for real-time property discovery.
 ![Property Search](./assets/property-search.png)
+
+### Admin Dashboard 
+> Secure RBAC dashboard for managing global settings, rate limits, and users.
+![Admin Dashboard](./assets/adminDashboardKpis.png)
+
+### Admin Dashboard Property Listing Requests
+> Secure RBAC dashboard for managing global settings, rate limits, and users.
+![Admin Dashboard](./assets/AdminPropRequests.png)
 
 ## 💡 Engineering Impact & Highlights
 
