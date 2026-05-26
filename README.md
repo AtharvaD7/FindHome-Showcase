@@ -87,7 +87,7 @@ graph TD
 
 ### Agent Dashboard
 > A highly optimized frontend consuming REST APIs for real-time property discovery.
-![Agent Dashboard](./assets/agentDashInquiry-page.png)
+![Agent Dashboard](./assets/agentDashInquiry.png)
 
 ### Admin Dashboard 
 > Secure RBAC dashboard for managing global settings, rate limits, and users.
