@@ -3,7 +3,7 @@
 [![Status: Production](https://img.shields.io/badge/Status-Production-success.svg)]()
 [![Frontend: React](https://img.shields.io/badge/Frontend-React-blue.svg)]()
 [![Backend: Spring Boot](https://img.shields.io/badge/Backend-Spring_Boot-green.svg)]()
-[![DB: PostgreSQL](https://img.shields.io/badge/AI-PostgreSQL-orange.svg)]()
+[![DB: PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-blue.svg)]()
 
 > **Note:** This repository serves as an architectural showcase and documentation hub for **FindHomeJ**. The core application source code is maintained in a private repository to protect proprietary API orchestrations, custom AI prompts, and security implementations.
 
