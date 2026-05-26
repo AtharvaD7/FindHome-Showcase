@@ -60,7 +60,7 @@ graph TD
 ## 📸 Application Showcase
 
 ### 📍 AI Property Neighborhood Insights
-> Demonstrating the Gemini API orchestration to provide users with intelligent market context.
+> Demonstrating the Gemini API orchestration to provide users with intelligent property surroundings context.
 ![AI Insights Demo](./assets/AiNeighborhood-page.png)
 
 ### 📈 AI Makrtet Insights
@@ -72,19 +72,19 @@ graph TD
 ![Property Search](./assets/propsearch-page.png)
 
 ### 📋 Property Details Page
-> A highly optimized frontend consuming REST APIs for real-time property discovery.
+> A highly optimized frontend consuming REST APIs for knowing property details.
 ![Property Search](./assets/DemoPropDetails.png)
 
 ### 📑 Listing Page
-> A highly optimized frontend consuming REST APIs for real-time property discovery.
+> Property listings action page.
 ![Property Search](./assets/sell-page.png)
 
 ### 📝 Listing Details Form
-> A highly optimized frontend consuming REST APIs for real-time property discovery.
+> Comprehensive Property details form consisting almost all information fields.
 ![Property Search](./assets/ListForm-page.png)
 
 ### 👨‍💼 Agent Dashboard
-> A highly optimized frontend consuming REST APIs for real-time property discovery.
+> Property Lister / Agent dashboard for managing listings and inquiries.
 ![Agent Dashboard](./assets/agentDashInquiry.png)
 
 ### ⚙️ Admin Dashboard 
@@ -92,7 +92,7 @@ graph TD
 ![Admin Dashboard](./assets/adminDashboardKpis.png)
 
 ### 📨 Admin Dashboard Property Listing Requests
-> Secure RBAC dashboard for managing global settings, rate limits, and users.
+> Separate tab for managing incoming listing approval requests.
 ![Admin Dashboard](./assets/AdminPropRequests.png)
 
 ## 💡 Engineering Impact & Highlights
@@ -102,6 +102,6 @@ graph TD
 *   **Scalable Authorization:** Implemented stateless session management using JWTs, ensuring that administrative endpoints and sensitive user data remain protected behind strict validation layers.
 
 ---
-*If you are a recruiter or engineer interested in discussing the technical implementation details, please feel free to reach out via my [LinkedIn: https://www.linkedin.com/in/atharva-deshmukh-93737a252//Portfolio].*
+*If you are a recruiter or engineer interested in discussing the technical implementation details, please feel free to reach out via my*
 **[LinkeIn](#)** *((https://www.linkedin.com/in/atharva-deshmukh-93737a252/))*
 **[Gmail](#)** *(datharva)*
