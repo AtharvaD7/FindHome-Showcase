@@ -27,6 +27,9 @@ FindHomeJ is a comprehensive, full-stack real estate platform designed to modern
 
 The application is built on a decoupled architecture, ensuring scalability and clear separation of concerns.
 
+<img width="1440" height="1640" alt="image" src="https://github.com/user-attachments/assets/9fffd2b6-3cba-43cd-b047-e7ff41199f1f" />
+
+
 ```mermaid
 graph TD
     Client[React Frontend / Vite] -->|HTTPS / REST| API[Spring Boot API Gateway]
