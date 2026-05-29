@@ -43,7 +43,7 @@ graph TD
     end
 ```
 ### Frontend <-> Backend
-    <img width="1440" height="1640" alt="image" src="https://github.com/user-attachments/assets/9fffd2b6-3cba-43cd-b047-e7ff41199f1f" />
+<img width="1440" height="1640" alt="image" src="https://github.com/user-attachments/assets/9fffd2b6-3cba-43cd-b047-e7ff41199f1f" />
 
 
 ## 🛠️ Technical Stack
